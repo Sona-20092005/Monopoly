@@ -1,0 +1,61 @@
+/*
+public class Player {
+    private int moneyBalance
+    private int coordinates
+    private String playerName
+
+    public void movePlayer(int dice number){
+
+    }
+
+    public void getMoney() {
+
+    }
+
+    public void buyProperty() {
+
+    }
+
+    public void payRent() {
+        
+    }
+
+    public void takeChanceCard() {
+        
+    }
+
+    public void takeCommunityChestCard() {
+        
+    }
+
+    public void goToJail() {
+
+    }
+    
+
+}
+public class Board {
+    // to store the information about all tiles, properties, and cards and money in the bank 
+
+}
+
+public class Dice {
+
+    public static int rollDice(){
+
+    }
+
+}
+
+public class Tile {
+
+    private int coordinate
+    private String function
+
+    private void executeTheMessage() {
+
+    }
+
+
+}
+*/
